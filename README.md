@@ -1,7 +1,7 @@
 # Data-Anlysis-sql-OMAC
 Attatches SQL Udacity course by One million arab coder main topics:  
 
-Lesson2: A python code which has
+-Lesson2: A python code which has
 	Input: 
 		numbers separated ny ','
 	Output: 
@@ -17,11 +17,11 @@ Lesson2: A python code which has
 		Mean
 		standard deviation
 		Variance
-Lesson4: basic.sql
-Lesson5: SQLjoins.sql
-Lesson6: SQLaggrregation.sql
-Lesson7: sqlSubqueries&temporaryTables.sql
-Lesson8: sqlDataCleaning.sql  
+-Lesson4: basic.sql
+-Lesson5: SQLjoins.sql
+-Lesson6: SQLaggrregation.sql
+-Lesson7: sqlSubqueries&temporaryTables.sql
+-Lesson8: sqlDataCleaning.sql  
 
 I recommend that you open them using "Atom" to appear clear while reading, 
 These are the impotant notes and the quizez and answers of the course 
